@@ -89,27 +89,28 @@ Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2
 # Peer-Reviewed Publications (Submitted or In Prep)
 \*Indicates undergraduate co-author  
 
-Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander.   
-&nbsp;&nbsp; Submitted to *Systematic Biology: Spotlights*. A Phylogenomic perspective on the evolutionary history  
-&nbsp;&nbsp; of the stonefly genus *Suwallia* (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements.  
+Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander.  
+&nbsp;&nbsp; A Phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia*  
+&nbsp;&nbsp; (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements.  
+&nbsp;&nbsp; Under review at *Molecular Phylogenetics and Evolution*.  
 Upadhyay, D., Lucarelli, J., Arnold, A., Flores, R., Bricker, H., Ulrich, R.N., Jesmok, G., Santi, L,  
 &nbsp;&nbsp; Defliese, W., Eagle, R., **Carroll, H.M.**, Bateman, J., Petryshyn, V., Loyd, S., Tang, J.,  
-&nbsp;&nbsp; Priyadarshi, A., Elliott, B., and Tripati, A. In prep. Carbonate clumped isotope analysis (Δ47)  
+&nbsp;&nbsp; Priyadarshi, A., Elliott, B., and Tripati, A. Carbonate clumped isotope analysis (Δ47)  
 &nbsp;&nbsp; of 21 carbonate standards determined via gas source isotope ratio mass spectrometry on  
 &nbsp;&nbsp; four instrumental configurations using carbonate-based standardization and multi-year datasets.  
-&nbsp;&nbsp; Target: *Rapid Communications in Mass Spectrometry*. Anticipated submission: November 2020.  
+&nbsp;&nbsp; Under revision at *Rapid Communications in Mass Spectrometry*.  
 **Carroll, H.M.**, M. Balmer, E.Q. Albright, T.J. Butts, Q. Shingai, G.M. Wilkinson. In prep. Spatiotemporal  
 &nbsp;&nbsp; complexity of microcystin production in a hypereutrophic reservoir. Target: *Limnology and Oceanography*   
-&nbsp;&nbsp; Anticipated submission: December 2020.  
+&nbsp;&nbsp; Anticipated submission: February 2021.  
 Cox, M., **H.M. Carroll**, T. Gallaher, H.T. Horner, P.C. Klahs, and L.G. Clark. In prep. Mature grass  
 &nbsp;&nbsp; (Poaceae) root anatomy: A phylogenetic survey and potential functional correlations.  
-&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: November 2020.  
+&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: February 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, and L.G. Clark. In prep. GeoPollen: An interactive, user-friendly Shiny  
 &nbsp;&nbsp; Dashboard application for visualization and analysis of pollen data. Target: *PLOS One*.  
-&nbsp;&nbsp; Anticipated submission: December 2020.  
+&nbsp;&nbsp; Anticipated submission: March 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, J.K. Galang\*, and D.D. Houston. In prep.  
 &nbsp;&nbsp; Late Quaternary vegetation, fire, and hydroclimate at the southern limit of the temperate tallgrass  
-&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: January 2021.  
+&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: April 2021.  
 
 # Technical Reports
 
@@ -168,6 +169,8 @@ Undergraduate Teaching Assistant - TESC 442: Marine Ecology, field course (1 qua
 
 # Grants  
 
+Co-Principal Investigator. **Pending.** *Risky Sex? Macroevolutionary and functional aspects of pollen*  
+&nbsp;&nbsp;  *and pollination in the grasses (Poaceae).* National Science Foundation.  
 Iowa State University Environmental Science Program Professional Development Grant \hfill 2019  
 &nbsp;&nbsp; Awarded for travel to the American Geophysical Union annual meeting   
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, Harry and  \hfill 2019  
@@ -193,16 +196,20 @@ Iowa State University Department of Ecology, Evolution, and Organismal Biology, 
 Iowa State University College of Liberal Arts and Sciences Curriculum Development Grant, \hfill 2014  
 &nbsp;&nbsp; awarded to redevelop Biol 488 - *Identification of Aquatic Organisms Online Course.*  
 Association for the Sciences of Limnology and Oceanography (ASLO) Student Travel Award \hfill 2014  
+<br>
 **Significant contributor**, Downing, J.A., C. Filstrup, and C. Williams.  
 &nbsp;&nbsp; *Twin Lakes, Iowa, Diagnostic and Feasibility Study* Contributed to portion awarded \hfill 2013  
 &nbsp;&nbsp; by Iowa Department of Natural Resources for paleolimnological study of Twin Lakes, Iowa.  
-<br>  
-
 **Significant contributor**, Downing, J.A., C. Filstrup, and C. Williams.  
 &nbsp;&nbsp; *Silver Lake, Iowa, Diagnostic and Feasibility Study* Contributed to portion awarded  \hfill 2013  
 &nbsp;&nbsp; by Iowa Department of Natural Resources for paleolimnological study of Silver Lake, Iowa.  
 
 # Service
+Facilitator - Cultivating Leadership for Change and Justice in the Geosciences \hfill 2020  
+&nbsp;&nbsp; Workshop 2: Exploring challenges to diversifying faculty  
+&nbsp;&nbsp; American Geophysical Union Annual Meeting  
+Panelist - Biol 606: Ecological Research Methods, Career panel for MS Ecology \hfill 2020  
+&nbsp;&nbsp; Students about lesser-known subdisciplines of ecology, Western Colorado University  
 Assistant Facilitator - Cultivating Leadership for Change and Justice in the Geosciences \hfill 2020  
 &nbsp;&nbsp; Workshop 1: Call to action: Anti-racism efforts in the geosciences  
 &nbsp;&nbsp; Geological Society of America Annual Meeting  
@@ -286,14 +293,14 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 undergraduate students except where noted]  
 \*Indicates mentorship of Master's student
 ^c^Indicates advisory committee membership
-\^Indicates undergraduate mentee who subsequently completed a Master's degree
+^+^Indicates undergraduate mentee who subsequently completed a Master's degree
 
 ### Western Colorado University, Gunnison
 Reece Samuelson\*, Ellie Orr\*, Bronwyn Taylor\*^c^, Jake Bartholomew\*^c^  
 
 ### Iowa State University, Ames  
 Jacqueline Galang, Alejand Hernandez-Delgado, Juan-Carlos Mungaray, Juan Perez, Kathryn Holmes,  
-Logan Crees\^, Lindsay Mack, Josiah Ihnen, Marlyssa Crow\^, Nicole Stout, Shelby Poole, Samuel Freestone, Emily Martin (Honors)\^, Eric Tagatz, Megan Koppenhafer, Connor Nicholas, Molly Zelinskas, Molli Wienhold, Mariah Mahaney, Sarah Leichty (Honors)\^, William Tony Manriquez   
+Logan Crees^+^, Lindsay Mack, Josiah Ihnen, Marlyssa Crow^+^, Nicole Stout, Shelby Poole, Samuel Freestone, Emily Martin (Honors)^+^, Eric Tagatz, Megan Koppenhafer, Connor Nicholas, Molly Zelinskas, Molli Wienhold, Mariah Mahaney, Sarah Leichty (Honors)^+^, William Tony Manriquez   
 
 ### University of Washington, Tacoma  
 Lindsay McCormick  
