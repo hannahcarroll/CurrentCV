@@ -46,6 +46,7 @@ Department of Earth, Planetary, and Space Sciences, University of California, Lo
 &nbsp;&nbsp; - Engage in mentorship of graduate and undergraduate STEM students  
 **Early Career Fellow, Center for Diverse Leadership in Science** \hfill 2020 - present  
 &nbsp;&nbsp; - Engage in ongoing training in the implementation of anti-racist practices in teaching and research  
+&nbsp;&nbsp; - Engage in outreach promoting diversity, equity, and inclusion in the sciences  
 **Postdoctoral Research Associate** \hfill 2020  
 Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA  
 &nbsp;&nbsp; - Conducted analyses on high resolution limnological data in the lab of Dr. Grace Wilkinson using  
@@ -155,6 +156,10 @@ Schanz, A., **H. Julich**, L. Ferrier, and H. Berry. 2010. Eelgrass Stressor-Res
 >**Indicates development of new course**  
 
 ## Courses Taught as Instructor of Record
+### California State University of Los Angeles  
+
+Biol 4540: Special Topics, biological sciences journal club (co-instructor) (1 semester) \hfill 2021  
+
 ### Iowa State University, Ames  
 
 EnSci 490: Independent Study (6 semesters) \hfill 2014---2018  
@@ -195,8 +200,6 @@ Geological Society of America Graduate Student Research Grant,  \hfill 2019
 &nbsp;&nbsp; *Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone*  
 Geological Society of America Graduate Student Research Grant,  \hfill 2018  
 &nbsp;&nbsp; *Late Quaternary Paleoecology of the Tallgrass Prairie-Ozark Forest Ecotone*  
-<br>  
-
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, \hfill 2016  
 &nbsp;&nbsp; Harry and Audrey Finch Scholarship (Finch Funds Award),  
 &nbsp;&nbsp; *Paleoecological Investigation of the Tallgrass Prairie-Ozark Forest Ecotone*  
@@ -218,7 +221,7 @@ Association for the Sciences of Limnology and Oceanography (ASLO) Student Travel
 # Service
 
 Facilitator - Cultivating Leadership for Change and Justice in the Geosciences \hfill 2021  
-&nbsp;&nbsp; Workshop 3: Effective Strategies for Student Organizing  
+&nbsp;&nbsp; Workshop 3: Effective strategies for student organizing  
 &nbsp;&nbsp;  American Meteorological Society Annual Meeting  
 Facilitator - Cultivating Leadership for Change and Justice in the Geosciences \hfill 2020  
 &nbsp;&nbsp; Workshop 2: Exploring challenges to diversifying faculty  
@@ -245,8 +248,10 @@ Workshop Leader - *All About Mussels* workshop for fifth grade students \hfill 2
 Social Outreach and Safety Chair - Environmental Science Graduate Student Organization \hfill 2013---2014  
 Volunteer - Iowa Children's Water Festival \hfill 2013  
 
-# Invited Talks and Guest Lectures
+# Invited Talks, Guest Lectures, and Workshops
 
+Carroll, H. *Publication quality plotting in R.* Hands-on R coding workshop for the Statistics \hfill 2021  
+&nbsp;&nbsp; Tutoring Center’s Statistics Bootcamp series. Western Colorado University, Gunnison.  
 Carroll, H. *Stable isotopes analysis.* Guest lecture with lab for general ecology course \hfill 2020  
 &nbsp;&nbsp; (Biology 302) in stable isotopes analysis using R. Western Colorado University, Gunnison  
 Carroll, H. *You've got data! Now what?: How to pick the right tests for your dataset* \hfill 2020    
@@ -265,6 +270,11 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; University of Wisconsin - Stout, Menomonie
 
 # Presentations and Posters
+^†^Denotes presenter, if other than self  
+
+^†^Samuelson, R., D. Cammack, **H. Carroll**, D. Houston, R. Japuntich, and K. Thompson. 2021.  
+&nbsp;&nbsp; *Passive monitoring of the native 'three-species' in the Dolores River Basin and land*  
+&nbsp;&nbsp; *management implications.* Colorado-Wyoming American Fisheries Society virtual conference.  
 **Carroll, H.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, and J. Galang\*. 2019. *A high-resolution,*  
 &nbsp;&nbsp; *multiproxy record of climate, vegetation, and fire history at the southern limit of the temperate*  
 &nbsp;&nbsp; *tallgrass prairie, USA.* American Geophysical Union Meeting, San Francisco, CA  
@@ -289,6 +299,8 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; Graduate Research in Evolutionary Biology and Ecology symposium, Ames, IA  
 **Julich, H.** and J.A. Downing. 2014. *Two hundred years of landscape change: Consequences for East*  
 &nbsp;&nbsp; *Okoboji Lake, Iowa.* Assoc. for the Sciences of Limnology and Oceanography Meeting, Portland, OR  
+<br>  
+
 **Julich, H.** and J.A. Downing. 2014. *Use of palynological techniques to reconstruct macrophyte loss and*  
 &nbsp;&nbsp; *multiple stable states in a eutrophic lake.* Graduate Research in Evolutionary Biology and  
 &nbsp;&nbsp; Ecology symposium, Ames, IA  
@@ -306,11 +318,15 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; *Friday Harbor, Washington.* Western Society of Naturalists Meeting, Ventura, CA  
 
 # Mentorship
-[27 total; includes 16 women and 5 students from traditionally underrepresented demographics in STEM;  
+[30 total; includes 18 women and 7 students from traditionally minoritized demographics in STEM;  
 undergraduate students except where noted]  
 \*Indicates mentorship of Master's student
+^‡^Indicates mentorship of PhD student
 ^c^Indicates advisory committee membership
 ^+^Indicates undergraduate mentee who subsequently completed a Master's degree
+
+### University of California, Los Angeles  
+Deepshikha Upadhyay^‡^, Jamie Lucarelli^‡^, Robert Ulrich^‡^  
 
 ### Western Colorado University, Gunnison
 Reece Samuelson\*, Ellie Orr\*, Bronwyn Taylor\*^c^, Jake Bartholomew\*^c^, Ashley Hurst\*^c^  
