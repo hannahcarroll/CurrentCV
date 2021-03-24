@@ -76,6 +76,11 @@ Participant, \{GeoChronR} Workshop \hfill 2016
 
 # Peer-Reviewed Publications
 
+Ulrich, R.N., M. Guillermic, J. Campbell, A. Hakim, R. Han, S. Singh, J.D. Stewart, C. Román-Palacios,  
+&nbsp;&nbsp; **H.M. Carroll**, I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. In press.  
+&nbsp;&nbsp; Patterns of trace element incorporation in carbonate biominerals recapitulate phylogeny for diverse  
+&nbsp;&nbsp; marine organisms. *Frontiers in Earth Science, Special Issue: Proxies and biomineralisation: From the*  
+&nbsp;&nbsp; *lab bench to paleoenvironments*.  
 Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2020. Trophic dynamics of  
 &nbsp;&nbsp; a reservoir fishery following an introduction of a top predator: Insights from stable carbon and nitrogen  
 &nbsp;&nbsp; isotopes. *Fisheries Management and Ecology*. 27:531–539. DOI: http://dx.doi.org/10.1111/fme.12445  
@@ -89,11 +94,6 @@ Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2
 # Peer-Reviewed Publications (Submitted or In Prep)
 \*Indicates undergraduate co-author  
 
-Ulrich, R.N., M. Guillermic, J. Campbell, A. Hakim, R. Han, S. Singh, J.D. Stewart, C. Román-Palacios,  
-&nbsp;&nbsp; **H.M. Carroll**, I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. Patterns of  
-&nbsp;&nbsp; trace element incorporation in carbonate biominerals recapitulate phylogeny for diverse marine organisms.  
-&nbsp;&nbsp; Under revision at *Frontiers in Earth Science, Special Issue: Proxies and biomineralisation: From the lab*  
-&nbsp;&nbsp; *bench to paleoenvironments*.  
 Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander.  
 &nbsp;&nbsp; A Phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia*  
 &nbsp;&nbsp; (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements.  
@@ -102,25 +102,29 @@ Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. M
 <br>  
 <br>  
 <br>  
-<br>  
+<br>
+
 Upadhyay, D., J. Lucarelli, A. Arnold, R. Flores, H. Bricker, R.N. Ulrich, G. Jesmok, L. Santi,  
 &nbsp;&nbsp; W. Defliese, R. Eagle, **H.M. Carroll**, J. Bateman, V. Petryshyn, S. Loyd, J. Tang, A. Priyadarshi,   
 &nbsp;&nbsp; B. Elliott, and A. Tripati. Carbonate clumped isotope analysis (Δ47) of 21 carbonate standards  
 &nbsp;&nbsp; determined via gas source isotope ratio mass spectrometry on four instrumental configurations using  
 &nbsp;&nbsp; carbonate-based standardization and multi-year datasets.  
 &nbsp;&nbsp; Under revision at *Rapid Communications in Mass Spectrometry*.  
+Lucarelli, J.K, **H.M. Carroll**, B. Elliott, A. Arnold, R. F., R. Eagle, A. Priyadarshi, A. Tripati. In prep.  
+&nbsp;&nbsp; Equilibrated gas-based carbonate standard clumped isotope (Δ47 and Δ48) values on the absolute  
+&nbsp;&nbsp; reference frame. Target: Rapid Communications in Mass Spectrometry. Anticipated submission: April 2021  
 **Carroll, H.M.**, M. Balmer, E.Q. Albright, T.J. Butts, Q. Shingai, G.M. Wilkinson. In prep.  
 &nbsp;&nbsp; Spatiotemporalcomplexity of microcystin production in a hypereutrophic reservoir.  
-&nbsp;&nbsp; Target: *Limnology and Oceanography.* Anticipated submission: February 2021.  
+&nbsp;&nbsp; Target: *Limnology and Oceanography.* Anticipated submission: April 2021.  
 Cox, M., **H.M. Carroll**, T. Gallaher, H.T. Horner, P.C. Klahs, and L.G. Clark. In prep. Mature grass  
 &nbsp;&nbsp; (Poaceae) root anatomy: A phylogenetic survey and potential functional correlations.  
-&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: February 2021.  
+&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: May 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, and L.G. Clark. In prep. GeoPollen: An interactive, user-friendly Shiny  
 &nbsp;&nbsp; Dashboard application for visualization and analysis of pollen data. Target: *PLOS One*.  
-&nbsp;&nbsp; Anticipated submission: March 2021.  
+&nbsp;&nbsp; Anticipated submission: June 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, J.K. Galang\*, and D.D. Houston. In prep.  
 &nbsp;&nbsp; Late Quaternary vegetation, fire, and hydroclimate at the southern limit of the temperate tallgrass  
-&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: April 2021.  
+&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: July 2021.  
 
 # Technical Reports
 
@@ -248,16 +252,26 @@ Workshop Leader - *All About Mussels* workshop for fifth grade students \hfill 2
 Social Outreach and Safety Chair - Environmental Science Graduate Student Organization \hfill 2013---2014  
 Volunteer - Iowa Children's Water Festival \hfill 2013  
 
-# Invited Talks, Guest Lectures, and Workshops
+# Workshops  
 
+Carroll, H. and C. Román-Palacios.  *R stats bootcamp: Part 2* \hfill 2021  
+&nbsp;&nbsp; Hands-on R statistics and coding workshop. Tripati lab, Department of Earth,  
+&nbsp;&nbsp; Planetary, and Space Sciences, University of California Los Angeles.  
 Carroll, H. *Publication quality plotting in R.* Hands-on R coding workshop for the Statistics \hfill 2021  
 &nbsp;&nbsp; Tutoring Center’s Statistics Bootcamp series. Western Colorado University, Gunnison.  
-Carroll, H. *Stable isotopes analysis.* Guest lecture with lab for general ecology course \hfill 2020  
-&nbsp;&nbsp; (Biology 302) in stable isotopes analysis using R. Western Colorado University, Gunnison  
+&nbsp;&nbsp; Recording: https://youtu.be/9cGO9fjtbvg  
+Carroll, H. and C. Román-Palacios.  *R stats bootcamp: Part 1* \hfill 2021  
+&nbsp;&nbsp; R statistics demonstration. Tripati lab, Department of Earth, Planetary, and Space Sciences,  
+&nbsp;&nbsp; University of California Los Angeles.  
 Carroll, H. *You've got data! Now what?: How to pick the right tests for your dataset* \hfill 2020    
 &nbsp;&nbsp; *(and why you should choose your tests first next time).* R workshop in statistics for  
 &nbsp;&nbsp; graduate students. Western Colorado University, Gunnison.  
 &nbsp;&nbsp; Recording: https://www.youtube.com/watch?v=-lKle5byG2Y&feature=youtu.be  
+
+# Invited Talks and Guest Lectures
+
+Carroll, H. *Stable isotopes analysis.* Guest lecture with lab for general ecology course \hfill 2020  
+&nbsp;&nbsp; (Biology 302) in stable isotopes analysis using R. Western Colorado University, Gunnison  
 Carroll, H. *Spatial data wrangling in R.* Demonstration for LunchinatoRS: \hfill 2019  
 &nbsp;&nbsp; an R-focused lunch seminar. Iowa State University, Ames  
 Carroll, H. *New Solutions for Old Problems: The Power of Big Data in Late* \hfill 2018  
@@ -299,8 +313,6 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; Graduate Research in Evolutionary Biology and Ecology symposium, Ames, IA  
 **Julich, H.** and J.A. Downing. 2014. *Two hundred years of landscape change: Consequences for East*  
 &nbsp;&nbsp; *Okoboji Lake, Iowa.* Assoc. for the Sciences of Limnology and Oceanography Meeting, Portland, OR  
-<br>  
-
 **Julich, H.** and J.A. Downing. 2014. *Use of palynological techniques to reconstruct macrophyte loss and*  
 &nbsp;&nbsp; *multiple stable states in a eutrophic lake.* Graduate Research in Evolutionary Biology and  
 &nbsp;&nbsp; Ecology symposium, Ames, IA  
