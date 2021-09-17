@@ -16,9 +16,10 @@ urlcolor: blue
 ---
 
 ***
+ 
 
-&nbsp; ![](mail.png){width=15px} hcarroll@epss.ucla.edu ![](phone.png){width=15px} 515-991-4058 ![](GitHub-Mark.png){width=15px} hannahcarroll
-![](twitter.png){width=15px} hmcarro ![](orcid.jpg){width=15px} 0000-0003-3343-3358
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](mail.png){width=15px} hcarroll@epss.ucla.edu ![](phone.png){width=15px} 515-991-4058 ![](GitHub-Mark.png){width=15px}[hannahcarroll](https://github.com/hannahcarroll)
+![](600px-ORCID_iD.svg.png){width=15px}[0000-0003-3343-3358](https://orcid.org/0000-0003-3343-3358)  
 
 ***
 
@@ -53,6 +54,11 @@ Department of Ecology, Evolution, and Organismal Biology, Iowa State University,
 &nbsp;&nbsp; high-powered computing.  
 <br>  
 
+# Faculty Appointments  
+**Adjunct Professor** \hfill 2021 - present    
+School of Environment and Sustainability, Department of Natural and Environmental Sciences  
+Western Colorado University, Gunnison  
+
 # Awards and Honors
 
 Iowa State University Graduate College Research Excellence Award \hfill 2020  
@@ -79,10 +85,10 @@ Participant, \{GeoChronR} Workshop \hfill 2016
 
 Upadhyay, D., J. Lucarelli, A. Arnold, R. Flores, H. Bricker, R.N. Ulrich, G. Jesmok, L. Santi,  
 &nbsp;&nbsp; W. Defliese, R. Eagle, **H.M. Carroll**, J. Bateman, V. Petryshyn, S. Loyd, J. Tang, A. Priyadarshi,   
-&nbsp;&nbsp; B. Elliott, and A. Tripati. In press. Carbonate clumped isotope analysis $(Δ_{47})$ of 21 carbonate standards  
+&nbsp;&nbsp; B. Elliott, and A. Tripati. 2021. Carbonate clumped isotope analysis $(Δ_{47})$ of 21 carbonate standards  
 &nbsp;&nbsp; determined via gas source isotope ratio mass spectrometry on four instrumental configurations using  
-&nbsp;&nbsp; carbonate-based standardization and multi-year datasets. *Rapid Communications in Mass Spectrometry*.  
-&nbsp;&nbsp; Preprint available at: https://eartharxiv.org/repository/object/1848/download/3911/  
+&nbsp;&nbsp; carbonate-based standardization and multi-year datasets. *Rapid Communications in Mass Spectrometry*  
+&nbsp;&nbsp; 35(17):e9143. DOI: http://dx.doi.org/10.1002/rcm.9143    
 Ulrich, R.N., M. Guillermic, J. Campbell\*, A. Hakim\*, R. Han\*, S. Singh\*, J.D. Stewart, C. Román-Palacios,  
 &nbsp;&nbsp; **H.M. Carroll**, I. De Corte, R.E. Gilmore, W. Doss, A. Tripati, J.B. Ries, and R.A. Eagle. 2021.  
 &nbsp;&nbsp; Patterns of trace element incorporation in carbonate biominerals recapitulate phylogeny for diverse  
@@ -99,28 +105,32 @@ Wamboldt, J.J., A.D. Wanamaker, **H.M. Carroll**, R. Schultz, and J.E. Morris. 2
 &nbsp;&nbsp; *Journal of Biological Education*. DOI: https://doi.org/10.1080/00219266.2019.1707263  
 
 # Peer-Reviewed Publications (Submitted or In Prep)
-\*Indicates undergraduate co-author  
+^†^Indicates co-first authorship \*Indicates undergraduate co-author    
 
+Lucarelli, J.K, **H.M. Carroll**, B. Elliott, A. Arnold, R. F., R. Eagle, A. Priyadarshi, A. Tripati.  
+&nbsp;&nbsp; Equilibrated gas-based carbonate standard clumped isotope ($Δ_{47}$ and $Δ_{48}$) values on the absolute  
+&nbsp;&nbsp; reference frame. Under revision at *Rapid Communications in Mass Spectrometry*.  
+&nbsp;&nbsp; Preprint available at: https://eartharxiv.org/repository/object/2423/download/4979/  
 Houston, D.D., J.D. Satler, T.K. Stack\*, **H.M. Carroll**, A.M. Bevan\*, A.L. Moya\*, and K.D. Alexander.  
 &nbsp;&nbsp; A Phylogenomic perspective on the evolutionary history of the stonefly genus *Suwallia*  
 &nbsp;&nbsp; (Plecoptera: Chloroperlidae) revealed by ultraconserved genomic elements.  
-&nbsp;&nbsp; Under review at *Molecular Phylogenetics and Evolution*.  
-Lucarelli, J.K, **H.M. Carroll**, B. Elliott, A. Arnold, R. F., R. Eagle, A. Priyadarshi, A. Tripati.  
-&nbsp;&nbsp; Equilibrated gas-based carbonate standard clumped isotope ($Δ_{47}$ and $Δ_{48}$) values on the absolute  
-&nbsp;&nbsp; reference frame. Under review at *Rapid Communications in Mass Spectrometry*.  
-&nbsp;&nbsp; Preprint available at: https://eartharxiv.org/repository/object/2423/download/4979/  
+&nbsp;&nbsp; Under revision at *Molecular Phylogenetics and Evolution*.  
+Román-Palacios, C., **H.M. Carroll**, A. J. Arnold, R. J. Flores, S. Petersen, K. A. McKinnon, and A. Tripati.  
+&nbsp;&nbsp; BayClump: Bayesian Calibration and Temperature Reconstructions for Clumped Isotope Thermometry.  
+&nbsp;&nbsp; Submitted to *Geochemistry, Geophysics, Geosystems*.  
+&nbsp;&nbsp; Preprint available at: https://www.essoar.org/doi/abs/10.1002/essoar.10507995.1   
 **Carroll, H.M.**, M. Balmer, E.Q. Albright, T.J. Butts, Q. Shingai, G.M. Wilkinson. In prep.  
 &nbsp;&nbsp; Spatiotemporal complexity of microcystin production in a hypereutrophic reservoir.  
-&nbsp;&nbsp; Target: *Limnology and Oceanography.* Anticipated submission: September 2021.  
-Cox, M., **H.M. Carroll**, T. Gallaher, H.T. Horner, P.C. Klahs, and L.G. Clark. In prep. Mature grass  
+&nbsp;&nbsp; Target: *Limnology and Oceanography.* Anticipated submission: November 2021.  
+Klahs, P.C.^†^, **H.M. Carroll**^†^, M. Bailey, T. Gallaher, H.T. Horner, and L.G. Clark. In prep. Mature grass  
 &nbsp;&nbsp; (Poaceae) root anatomy: A phylogenetic survey and potential functional correlations.  
-&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: August 2021.  
+&nbsp;&nbsp; Target: *American Journal of Botany*. Anticipated submission: November 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, and L.G. Clark. In prep. GeoPollen: An interactive, user-friendly Shiny  
 &nbsp;&nbsp; Dashboard application for visualization and analysis of pollen data. Target: *PLOS One*.  
-&nbsp;&nbsp; Anticipated submission: November 2021.  
+&nbsp;&nbsp; Anticipated submission: December 2021.  
 **Carroll, H.M.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, J.K. Galang\*, and D.D. Houston. In prep.  
 &nbsp;&nbsp; Late Quaternary vegetation, fire, and hydroclimate at the southern limit of the temperate tallgrass  
-&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: December 2021.  
+&nbsp;&nbsp; prairie, Missouri, USA. Target: *Quaternary Science Reviews*. Anticipated submission: January 2022.  
 
 # Technical Reports
 
@@ -143,13 +153,14 @@ Downing, J.A., C.T. Filstrup, D.L. Kendall, L. Whitehouse, and **H. Carroll**. 2
 Norris, J.G., I.E. Fraser, and **H. Julich**. 2012. Underwater Videographic Survey of Submerged Aquatic  
 &nbsp;&nbsp; Vegetation in Sequim Bay, WA, August 2011. Report to Hansi Halls, Environmental Planning Manager,  
 &nbsp;&nbsp; Jamestown S'Klallam Tribe, Sequim, WA.  
-Norris, J.G., I.E. Fraser, and **H. Julich**. 2011. Defining fish use of subtidal vegetated habitats of the  
-&nbsp;&nbsp; Elwha and comparative shorelines. Report to Cathy Lear, Clallam County Planning Biologist,  
+<br>  
+<br>  
+Norris, J.G., I.E. Fraser, and **H. Julich**. 2011. Defining fish use of subtidal vegetated habitats  
+&nbsp;&nbsp; of the Elwha and comparative shorelines. Report to Cathy Lear, Clallam County Planning Biologist,  
 &nbsp;&nbsp; Port Angeles, Washington.  
 Schanz, A., **H. Julich**, L. Ferrier, and H. Berry. 2010. Eelgrass Stressor-Response Project:  
 &nbsp;&nbsp; Report 2007---2008. Nearshore Habitat Program. Washington Dept. of Natural Resources,  
 &nbsp;&nbsp; Olympia, WA.  
-<br>  
 
 # Teaching
 >*Indicates redevelopment or co-redevelopment of existing course*  
@@ -179,13 +190,8 @@ Biol 394: Study Abroad: Maya Mountains & Calabash Caye, \hfill 2015
 &nbsp;&nbsp; international field course (1 semester in classroom, 2 weeks abroad in Belize)  
 Biol 486xw: Aquatic Ecology Online (3 semesters) \hfill 2013---2015  
 
-### University of Washington, Tacoma
-Undergraduate Teaching Assistant - TESC 442: Marine Ecology, field course (1 quarter) \hfill 2008  
-
 # Grants  
 
-Co-Principal Investigator. **Pending.** *Risky Sex? Macroevolutionary and functional aspects of pollen*  
-&nbsp;&nbsp;  *and pollination in the grasses (Poaceae).* National Science Foundation.  
 Iowa State University Environmental Science Program Professional Development Grant \hfill 2019  
 &nbsp;&nbsp; Awarded for travel to the American Geophysical Union annual meeting   
 Iowa State University Department of Ecology, Evolution, and Organismal Biology, Harry and  \hfill 2019  
@@ -295,11 +301,10 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; and Aradhna Tripati. *Paired $(Δ_{47})$ and $(Δ_{48})$ carbonate clumped isotope data: Standard*  
 &nbsp;&nbsp; *values, multi-instrument comparisons, mixing effects, and disequilibrium effects.*  
 &nbsp;&nbsp; Presentation given at Goldschmidt 2021 virtual meeting.  
-^†^Samuelson, R., D. Cammack, **H.M. Carroll**, D.D. Houston, R. Japuntich, and K. Thompson. 2021.  
-&nbsp;&nbsp; *Passive monitoring of the native ‘three-species’ in the Dolores River Basin and land management*  
+<br>  
+^†^Samuelson, R., D. Cammack, **H.M. Carroll**, D.D. Houston, R. Japuntich, and K. Thompson  
+&nbsp;&nbsp; 2021. *Passive monitoring of the native ‘three-species’ in the Dolores River Basin and land management*  
 &nbsp;&nbsp; *implications.* Presentation given at the CO/WY American Fisheries Society virtual conference.  
-<br>  
-<br>  
 **Carroll, H.**, A.D. Wanamaker, L.G. Clark, B.E. Caissie, and J. Galang\*. 2019. *A high-resolution,*  
 &nbsp;&nbsp; *multiproxy record of climate, vegetation, and fire history at the southern limit of the temperate*  
 &nbsp;&nbsp; *tallgrass prairie, USA.* American Geophysical Union Meeting, San Francisco, CA  
@@ -339,6 +344,13 @@ Carroll, H. *Lake Eutrophication and Land Use.* Departmental seminar. \hfill 201
 &nbsp;&nbsp; *Friday Harbor, Washington.* UW Undergraduate Research Symposium, Seattle, WA  
 **Julich, H.** and B.J. Becker. 2007. *In situ culturing of larval sand dollars, *Dendraster excentricus*, in*  
 &nbsp;&nbsp; *Friday Harbor, Washington.* Western Society of Naturalists Meeting, Ventura, CA  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
 
 # Mentorship
 [30 total; includes 18 women and 7 students from historically minoritized demographics in STEM;  
@@ -363,6 +375,8 @@ Lindsay McCormick
 
 # Trainings and Certifications  
 
+Center for the Integration of Research, Teaching and Learning (CIRTL) Certification: \hfill 2021  
+&nbsp;&nbsp; Associate Level  
 Center for the Integration of Research, Teaching and Learning (CIRTL) Training: \hfill 2021  
 &nbsp;&nbsp; Trauma-Responsive Teaching  
 Center for the Integration of Research, Teaching and Learning (CIRTL) Training: \hfill 2021  
